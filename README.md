@@ -11,7 +11,7 @@
 
 ### Deploy To Heroku
 
-  ㅤ ㅤ   ㅤ <a href="https://github.com/LISA-KOREA/UPLOADER-BOT-V2"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
+  ㅤ ㅤ   ㅤ <a href="https://github.com/monu875/UPLOADER-BOT-V2"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
 
 ### How To Create Your Own Watch This Video Click 👉 [YouTube](https://youtu.be/1AJISrJXwqA)
 
